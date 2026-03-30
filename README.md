@@ -64,10 +64,13 @@ python aetherweave_demo.py
 
 **👥 สมาชิกกลุ่ม**
 
-| รหัสนักศึกษา | ชื่อ | Role |
-|--------------|------|------|
-| 673380392-1 | นายกานดิทัต นามสุดตา | Network Architects |
-| 673380395-5 | นายคมชาญ น้อยเนียม | IaC/DevOps |
+| No | ชื่อ | รหัสนักศึกษา | Role | หน้าที่หลัก |
+|----|------|--------------|------|-------------|
+| 1 | นายอนันต์เอกก์ ใหญ่พงศกร | 673380430-9 | System Architect | ออกแบบสถาปัตยกรรม AetherWeave 2.0, SDN Integration, AI Overlay Design |
+| 2 | นายกานดิทัต นามสุดตา | 673380392-1 | Backend & SDN Engineer | พัฒนา SDN Controller, Routing Logic, Policy Engine Backend |
+| 3 | นายภีมเดช กลั่นกิ่ง | 673380420-2 | AI & Context Engineer | พัฒนา Traffic Prediction Model, Context Analysis Module |
+| 4 | นายเวชวสุ บุญยอ | 673380609-2 | Infrastructure & DevOps | ตั้งค่า Repository, Docker, Kubernetes, CI/CD |
+| 5 | นายปฏิภาณ มะนิลทิพย์ | 673380589-2 | QA & Documentation Lead | จัดทำเอกสาร, Test Plan, KPI Validation |
 
 ---
 
